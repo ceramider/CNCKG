@@ -1,2 +1,3 @@
-# CNCKG
-Cloud Native Compound Knowledge Graph
+# Cloud Native Compound Knowledge Graph (CNCKG)
+The Cloud Native Compound Knowledge Graph (CNCKG) aims to provide a comprehensive, accurate, and easily accessible drug information resource to support research, clinical practice, and decision making in the pharmaceutical field. Compound Knowledge Graph (CKG) is a structured drug knowledge base that organizes and represents compound properties, interactions, pathways, dosages, safety and other information in the form of a graph, enabling users to better understand and utilize this information.
+With high scalability, flexibility and accessibility, CNCKG can take advantage of cloud computing and other advantages to realize the storage, processing and sharing of large-scale data, providing timely and accurate drug information to a wide range of medical practitioners and researchers, and promoting the development and innovation of the pharmaceutical field.
